@@ -46,5 +46,9 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://andyherbert.github.io/ansi-ascii-handle-database/ansi-and-ascii-artists-handle-database-safari.plist</string>
+	<key>Website</key>
+	<string>https://github.com/andyherbert/ansi-ascii-handle-database</string>
 </dict>
 </plist>
