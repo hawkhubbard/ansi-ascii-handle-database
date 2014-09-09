@@ -1,0 +1,9 @@
+{
+  "name": "firefox-ansi-and-ascii-artists-handle-database-extension",
+  "title": "Firefox Ansi and Ascii Artists Handle Database Extension",
+  "id": "jid1-C5DLYoBBzq2v7A",
+  "description": "Displays the handle of Ansi and Ascii artists on Facebook.",
+  "author": "Andy Herbert",
+  "license": "MIT",
+  "version": "1.0"
+}
