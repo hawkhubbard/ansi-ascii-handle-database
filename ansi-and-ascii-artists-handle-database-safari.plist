@@ -10,9 +10,9 @@
             <key>Developer Identifier</key>
             <string>49WYP9H88Y</string>
             <key>CFBundleVersion</key>
-            <string>Your current bundle version</string>
+            <string>1</string>
             <key>CFBundleShortVersionString</key>
-            <string>1.9</string>
+            <string>1.0</string>
             <key>URL</key>
             <string>http://andyherbert.github.io/ansi-ascii-handle-database/builds/Ansi%20and%20Ascii%20Artists%20Handle%20Database.safariextz</string>
         </dict>
